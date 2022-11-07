@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.line-thru {
+  text-decoration: line-through;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.greyOut {
+  color: grey;
+}
